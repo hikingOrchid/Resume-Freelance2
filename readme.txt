@@ -14,4 +14,5 @@ Project Purpose:
 Execute Instructions:
 
 1. Open master branch Resume-Freelance2
-4. Run
+
+2. Run
