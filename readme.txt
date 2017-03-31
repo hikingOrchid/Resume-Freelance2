@@ -13,6 +13,5 @@ Project Purpose:
 
 Execute Instructions:
 
-1. Open real_second_branch
-
-4. Run 
+1. Open master branch
+4. Run
